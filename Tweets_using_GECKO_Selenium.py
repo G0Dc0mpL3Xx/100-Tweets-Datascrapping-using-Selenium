@@ -7,7 +7,7 @@ import time
 import csv
 
 # Path to GeckoDriver
-firefox_service = FirefoxService(executable_path=r'C:\Users\rohan\Python 3.12\geckodriver.exe')
+firefox_service = FirefoxService(executable_path=r'PATH TO YOUR GECKO DRIVER')
 
 # Set up Firefox options
 options = Options()
